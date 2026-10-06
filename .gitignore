@@ -11,3 +11,6 @@ mydiff.exe
 .idea/
 *.swp
 .DS_Store
+out/
+tout/
+tools/big/
